@@ -40,6 +40,33 @@ fi
 
 while true; do
     clear
+	echo "
+                                                                                                                                                                                       
+                                                                                                                                                                                       
+               AAA                                                     hhhhhhh                  LLLLLLLLLLL               iiii                                                         
+              A:::A                                                    h:::::h                  L:::::::::L              i::::i                                                        
+             A:::::A                                                   h:::::h                  L:::::::::L               iiii                                                         
+            A:::::::A                                                  h:::::h                  LL:::::::LL                                                                            
+           A:::::::::A          rrrrr   rrrrrrrrr       cccccccccccccccch::::h hhhhh              L:::::L               iiiiiiinnnn  nnnnnnnn    uuuuuu    uuuuuu  xxxxxxx      xxxxxxx
+          A:::::A:::::A         r::::rrr:::::::::r    cc:::::::::::::::ch::::hh:::::hhh           L:::::L               i:::::in:::nn::::::::nn  u::::u    u::::u   x:::::x    x:::::x 
+         A:::::A A:::::A        r:::::::::::::::::r  c:::::::::::::::::ch::::::::::::::hh         L:::::L                i::::in::::::::::::::nn u::::u    u::::u    x:::::x  x:::::x  
+        A:::::A   A:::::A       rr::::::rrrrr::::::rc:::::::cccccc:::::ch:::::::hhh::::::h        L:::::L                i::::inn:::::::::::::::nu::::u    u::::u     x:::::xx:::::x   
+       A:::::A     A:::::A       r:::::r     r:::::rc::::::c     ccccccch::::::h   h::::::h       L:::::L                i::::i  n:::::nnnn:::::nu::::u    u::::u      x::::::::::x    
+      A:::::AAAAAAAAA:::::A      r:::::r     rrrrrrrc:::::c             h:::::h     h:::::h       L:::::L                i::::i  n::::n    n::::nu::::u    u::::u       x::::::::x     
+     A:::::::::::::::::::::A     r:::::r            c:::::c             h:::::h     h:::::h       L:::::L                i::::i  n::::n    n::::nu::::u    u::::u       x::::::::x     
+    A:::::AAAAAAAAAAAAA:::::A    r:::::r            c::::::c     ccccccch:::::h     h:::::h       L:::::L         LLLLLL i::::i  n::::n    n::::nu:::::uuuu:::::u      x::::::::::x    
+   A:::::A             A:::::A   r:::::r            c:::::::cccccc:::::ch:::::h     h:::::h     LL:::::::LLLLLLLLL:::::Li::::::i n::::n    n::::nu:::::::::::::::uu   x:::::xx:::::x   
+  A:::::A               A:::::A  r:::::r             c:::::::::::::::::ch:::::h     h:::::h     L::::::::::::::::::::::Li::::::i n::::n    n::::n u:::::::::::::::u  x:::::x  x:::::x  
+ A:::::A                 A:::::A r:::::r              cc:::::::::::::::ch:::::h     h:::::h     L::::::::::::::::::::::Li::::::i n::::n    n::::n  uu::::::::uu:::u x:::::x    x:::::x 
+AAAAAAA                   AAAAAAArrrrrrr                cccccccccccccccchhhhhhh     hhhhhhh     LLLLLLLLLLLLLLLLLLLLLLLLiiiiiiii nnnnnn    nnnnnn    uuuuuuuu  uuuuxxxxxxx      xxxxxxx
+                                                                                                                                                                                       
+                                                                                                                                                                                       
+                                                                                                                                                                                       
+                                                                                                                                                                                       
+                                                                                                                                                                                       
+                                                                                                                                                                                       
+                                                                                                                                                                                       
+"
     echo "Menu Options:"
     echo "1. Intro"
     echo "2. Customizable Distro"
@@ -149,6 +176,33 @@ But Virtual Machines Do Work!"
             ;;
         quit)
             clear
+			echo "
+                                                                                                                                                                                       
+                                                                                                                                                                                       
+               AAA                                                     hhhhhhh                  LLLLLLLLLLL               iiii                                                         
+              A:::A                                                    h:::::h                  L:::::::::L              i::::i                                                        
+             A:::::A                                                   h:::::h                  L:::::::::L               iiii                                                         
+            A:::::::A                                                  h:::::h                  LL:::::::LL                                                                            
+           A:::::::::A          rrrrr   rrrrrrrrr       cccccccccccccccch::::h hhhhh              L:::::L               iiiiiiinnnn  nnnnnnnn    uuuuuu    uuuuuu  xxxxxxx      xxxxxxx
+          A:::::A:::::A         r::::rrr:::::::::r    cc:::::::::::::::ch::::hh:::::hhh           L:::::L               i:::::in:::nn::::::::nn  u::::u    u::::u   x:::::x    x:::::x 
+         A:::::A A:::::A        r:::::::::::::::::r  c:::::::::::::::::ch::::::::::::::hh         L:::::L                i::::in::::::::::::::nn u::::u    u::::u    x:::::x  x:::::x  
+        A:::::A   A:::::A       rr::::::rrrrr::::::rc:::::::cccccc:::::ch:::::::hhh::::::h        L:::::L                i::::inn:::::::::::::::nu::::u    u::::u     x:::::xx:::::x   
+       A:::::A     A:::::A       r:::::r     r:::::rc::::::c     ccccccch::::::h   h::::::h       L:::::L                i::::i  n:::::nnnn:::::nu::::u    u::::u      x::::::::::x    
+      A:::::AAAAAAAAA:::::A      r:::::r     rrrrrrrc:::::c             h:::::h     h:::::h       L:::::L                i::::i  n::::n    n::::nu::::u    u::::u       x::::::::x     
+     A:::::::::::::::::::::A     r:::::r            c:::::c             h:::::h     h:::::h       L:::::L                i::::i  n::::n    n::::nu::::u    u::::u       x::::::::x     
+    A:::::AAAAAAAAAAAAA:::::A    r:::::r            c::::::c     ccccccch:::::h     h:::::h       L:::::L         LLLLLL i::::i  n::::n    n::::nu:::::uuuu:::::u      x::::::::::x    
+   A:::::A             A:::::A   r:::::r            c:::::::cccccc:::::ch:::::h     h:::::h     LL:::::::LLLLLLLLL:::::Li::::::i n::::n    n::::nu:::::::::::::::uu   x:::::xx:::::x   
+  A:::::A               A:::::A  r:::::r             c:::::::::::::::::ch:::::h     h:::::h     L::::::::::::::::::::::Li::::::i n::::n    n::::n u:::::::::::::::u  x:::::x  x:::::x  
+ A:::::A                 A:::::A r:::::r              cc:::::::::::::::ch:::::h     h:::::h     L::::::::::::::::::::::Li::::::i n::::n    n::::n  uu::::::::uu:::u x:::::x    x:::::x 
+AAAAAAA                   AAAAAAArrrrrrr                cccccccccccccccchhhhhhh     hhhhhhh     LLLLLLLLLLLLLLLLLLLLLLLLiiiiiiii nnnnnn    nnnnnn    uuuuuuuu  uuuuxxxxxxx      xxxxxxx
+                                                                                                                                                                                       
+                                                                                                                                                                                       
+                                                                                                                                                                                       
+                                                                                                                                                                                       
+                                                                                                                                                                                       
+                                                                                                                                                                                       
+                                                                                                                                                                                       
+"
             echo "Menu Options:"
             echo "1. Intro"
             echo "2. Customizable Distro"
